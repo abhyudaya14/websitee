@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: url(../1.jpg);
+	background-size: cover;
+	font-family: Century Gothic;
+}
+
+.title{
+	margin-top: 100px;
+	color: #fff;
+}
+
+.title h1{
+	font-size: 32px;
+	line-height: 10px;
+}
+.title h2{
+	font-size: 16px;
+}
+
+form{
+	margin-top: 50px;
+
+}
+
+.form-control{
+	width: 600px;
+	background:transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #fff;
+	font-size: 18px;
+	margin-bottom: 16px;
+
+}
+ 
+input{
+	height: 45px;
+}
+
+form .submit{
+	background-color: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top: 20px;
+	transition: 0.4s ease;
+}
+
+form.submit:hover{
+	background-color: #f44336;
+	cursor: pointer;
+}
+.address p {
+    color: #ccc;
+    font-size: 0.85em;
+    line-height: 1.8em;
+    font-weight: 600;
+}
+p.m_13 {
+    color: #ccc;
+    font-size: 0.85em;
+    line-height: 1.5em;
+    margin-bottom: 4%;
+}
+p {
+    margin: 0;
+}
+p {
+    margin: 0 0 10px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+html, body {
+    font-family: "Open Sans", sans-serif;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: red;
+}
+html {
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+box-sizing:border-box;
+color:rgb(204, 204, 204);
+display:block;
